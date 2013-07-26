@@ -15,7 +15,7 @@ let g:colors_name="atom"
 
 hi Normal       guifg=white       guibg=#304050
 
-hi DiffDelete   guifg=#304050     guibg=#203040
+hi DiffDelete   guifg=#304666     guibg=#203040
 hi DiffAdd      guibg=#002851
 hi DiffChange   guibg=#450303
 hi DiffText     guibg=#990909     gui=none
